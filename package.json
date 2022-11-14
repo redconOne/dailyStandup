@@ -10,7 +10,7 @@
     "typescript": "^4.8.4"
   },
   "scripts": {
-    "test": "jest domainName fizzBuzz sumMix getAverage repeats lastEvens arrayCombinations nthSmallest duplicateEncode stringTransformer sortByLast findDeletedNum arrayDiff --coverage"
+    "test": "jest domainName fizzBuzz sumMix getAverage repeats lastEvens arrayCombinations nthSmallest duplicateEncode stringTransformer sortByLast findDeletedNum arrayDiff middleTriplet --coverage"
   },
   "author": "",
   "license": "MIT",
